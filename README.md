@@ -27,3 +27,5 @@ The rest of them are to be done
 This project is [MIT] licensed.
 
 [MIT]: LICENSE
+
+Sprawdź wiadomości na slacku!
